@@ -14,3 +14,6 @@ function findLongestWord(text) {
     return longestWord;
 }
 
+const text = "El software es una gran combinación entre arte e ingeniería. Bill Gates";
+
+console.log(findLongestWord(text)); // Resultado esperado: combinación
