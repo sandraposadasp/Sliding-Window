@@ -11,3 +11,6 @@ function findLongestWord(text) {
         }
     }
 
+    return longestWord;
+}
+
